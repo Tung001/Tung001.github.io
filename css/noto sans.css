@@ -8,3 +8,8 @@ h1,h2,h3,h4,h5,h6 {
 .text-primary{
 	font-size: 0.8em;
 }
+
+.bg-primary {
+	background-color: #00b5ac!important;
+	background-image: url("../img/always-grey.png");
+}
